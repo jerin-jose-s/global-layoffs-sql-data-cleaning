@@ -129,7 +129,7 @@ FROM layoffs_cleaned
 WHERE company IS NULL;
 
 SELECT * 
-FROM layoffs_cleaned LIMIT 10;
+FROM layoffs_cleaned;
 
 
 -- 8. Sample Analysis
